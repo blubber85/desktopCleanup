@@ -10,3 +10,6 @@ It gives a short notification how many files are moved.
 - Python 3
 - pync
 
+
+Add script to the crontab and let it run every hour.
+0 * * * * /Users/USER/gitPrivat/desktopCleanup/cleanup.py
