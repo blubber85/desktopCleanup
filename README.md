@@ -12,4 +12,4 @@ It gives a short notification how many files are moved.
 
 
 Add script to the crontab and let it run every hour.
-0 * * * * /Users/USER/gitPrivat/desktopCleanup/cleanup.py
+``` 0 * * * * /Users/USER/gitPrivat/desktopCleanup/cleanup.py```
